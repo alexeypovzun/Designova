@@ -22,4 +22,4 @@ The key files are located in folders:
 4. Hover effects: http://ianlunn.github.io/Hover/
 
 # Look on the Internet:
-The current online version is located at: http://hub.localhost.od.ua/designova
+The current online version is located at: http://demo.localhost.od.ua/github/designova/
